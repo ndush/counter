@@ -9,11 +9,8 @@ Extract this project folder.
 
 Open a terminal inside the project directory.
 
-Run:
+#Run:
 
-bash
-Copy
-Edit
 flutter pub get
 flutter run
 Features
@@ -23,10 +20,8 @@ State management using setState.
 
 Two buttons for incrementing and decrementing the counter.
 
-File Structure
-bash
-Copy
-Edit
+#File Structure
+
 lib/
   main.dart         # Main app code
 pubspec.yaml        # Project dependencies
