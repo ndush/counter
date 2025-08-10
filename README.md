@@ -26,5 +26,5 @@ lib/
   main.dart         # Main app code
 pubspec.yaml        # Project dependencies
 README.md           # This file
-License
+# License
 This project is open-source and free to use for learning purposes.# counter
