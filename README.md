@@ -9,7 +9,7 @@ Extract this project folder.
 
 Open a terminal inside the project directory.
 
-#Run:
+# Run:
 
 flutter pub get
 flutter run
