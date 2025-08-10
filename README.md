@@ -1,4 +1,4 @@
-Flutter Counter App
+# Flutter Counter App
 This is a simple Flutter application that demonstrates the basics of building a stateful widget.
 The app displays a counter starting at zero and provides two buttons to increment or decrement the value.
 
@@ -20,7 +20,7 @@ State management using setState.
 
 Two buttons for incrementing and decrementing the counter.
 
-#File Structure
+# File Structure
 
 lib/
   main.dart         # Main app code
