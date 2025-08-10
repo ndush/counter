@@ -13,7 +13,7 @@ Open a terminal inside the project directory.
 
 flutter pub get
 flutter run
-Features
+# Features
 Simple UI built with Material Design components.
 
 State management using setState.
